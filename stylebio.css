@@ -1,0 +1,42 @@
+h1 { color : pink;
+     text-align: center;
+     font-family: "Shrikhand", cursive;
+     font-stretch: semi-expanded;
+     letter-spacing: 10px;
+     text-shadow: 3px 2px gray;
+    }
+
+body { background : #F7FCF0}
+
+h2 { color : pink;
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+    text-shadow: 3px 2px gray
+    }
+
+.center { display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 90%;
+        }
+
+.para {
+        text-align: center;
+        color: #F7FCF0;
+        font-family: "Raleway", sans-serif;
+        }
+.top {
+      margin-top: 100px;
+      }
+.chunk1 {
+        background-color: #CCEBC5
+        }
+.chunk2 {background-color: #A8DDB5}
+
+.chunk3{background-color: #7BCCC4}
+
+.chunk4{background-color: #4EB3D3}
+
+.chunk5 {background-color: #2B8CBE}
+
+#525456 #757676 #a7a8a9 #d0d0d0
